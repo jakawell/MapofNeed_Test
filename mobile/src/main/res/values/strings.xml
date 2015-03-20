@@ -1,4 +1,9 @@
 <resources>
     <string name="app_name">Map of Need (Test)</string>
-    <string name="title_activity_main_map">Map</string>
+    <string name="title_activity_main_map">Map of Need</string>
+    <string name="fail_toast">Something went wrong!</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+    <string name="need_nearby_title">You\'re needed nearby!</string>
+    <string name="need_nearby_body">You are getting close to place that needs help! Will you take the challenge to make the world a better place?</string>
 </resources>
